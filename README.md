@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C440%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C442%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C438%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .one one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 6,440 rows · **Live catalog:** 6,438 domains
+**Public extract:** 6,442 rows · **Live catalog:** 6,438 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/one`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ONE one-word domain c
 
 ### Files
 
-- `one.csv` — public CSV extract (6,440 rows)
-- `one.json` — public JSON extract (6,440 rows)
+- `one.csv` — public CSV extract (6,442 rows)
+- `one.json` — public JSON extract (6,442 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,23 +67,23 @@ print(df.head())
 | cooked.one    | available | $30.98    | —             | 70             | 14     | 6      | namecheap                               |
 | developed.one | resell    | $30.98    | —             | 72             | 8      | 9      | NameCheap, Inc.                         |
 | easy.one      | premium   | $6,250    | $6,250        | 128            | 68     | 4      | name.com                                |
-| sideways.one  | available | $30.98    | —             | 70             | 13     | 8      | namecheap                               |
-| shot.one      | resell    | —         | —             | 116            | 98     | 4      | Spaceship, Inc.                         |
-| free.one      | premium   | $6,250    | $6,250        | 88             | 59     | 4      | name.com                                |
 | creepy.one    | available | $30.98    | —             | 60             | 13     | 6      | namecheap                               |
-| ancient.one   | resell    | —         | —             | 92             | 98     | 7      | Key-Systems LLC                         |
-| live.one      | premium   | $6,250    | $6,250        | 108            | 56     | 4      | name.com                                |
+| detailed.one  | resell    | $30.98    | —             | 68             | 8      | 8      | Dynadot Inc                             |
+| free.one      | premium   | $6,250    | $6,250        | 88             | 57     | 4      | name.com                                |
 | cleared.one   | available | $30.98    | —             | 74             | 12     | 7      | namecheap                               |
-| fan.one       | resell    | —         | —             | 88             | 98     | 3      | Dynadot Inc                             |
-| good.one      | premium   | $6,250    | $6,250        | 82             | 55     | 4      | name.com                                |
-| earned.one    | available | $30.98    | —             | 72             | 12     | 6      | namecheap                               |
-| canadian.one  | resell    | —         | —             | 88             | 98     | 8      | Dynadot Inc                             |
-| fast.one      | premium   | $6,250    | $6,250        | 82             | 53     | 4      | name.com                                |
+| shot.one      | resell    | —         | —             | 116            | 98     | 4      | Spaceship, Inc.                         |
+| live.one      | premium   | $6,250    | $6,250        | 108            | 56     | 4      | name.com                                |
 | composed.one  | available | $30.98    | —             | 71             | 12     | 8      | namecheap                               |
-| taiwan.one    | resell    | —         | —             | 66             | 93     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| ancient.one   | resell    | —         | —             | 92             | 98     | 7      | Key-Systems LLC                         |
+| good.one      | premium   | $6,250    | $6,250        | 82             | 55     | 4      | name.com                                |
+| sideways.one  | available | $30.98    | —             | 70             | 12     | 8      | namecheap                               |
+| fan.one       | resell    | —         | —             | 88             | 98     | 3      | Dynadot Inc                             |
 | true.one      | premium   | $6,250    | $6,250        | 86             | 52     | 4      | name.com                                |
 | confirmed.one | available | $30.98    | —             | 69             | 12     | 9      | namecheap                               |
-| ally.one      | resell    | —         | —             | 68             | 85     | 4      | GoDaddy.com, LLC                        |
+| canadian.one  | resell    | —         | —             | 88             | 98     | 8      | Dynadot Inc                             |
+| fast.one      | premium   | $6,250    | $6,250        | 82             | 52     | 4      | name.com                                |
+| satanic.one   | available | $30.98    | —             | 48             | 12     | 7      | namecheap                               |
+| taiwan.one    | resell    | —         | —             | 66             | 93     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,440-row public sample | 6,438 live domains                               |
+| 6,442-row public sample | 6,438 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
