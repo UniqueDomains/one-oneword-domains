@@ -235,6 +235,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17c5fbf8-5553-414a-b005-92094e7d25fa,newsarticle.one,available,3.99,,46,2,12,name.com,,
 17c64f96-ef16-45c8-ac29-b1bc39fcc93b,urged.one,available,3.99,,60,3,5,name.com,,
 1835b072-0576-4708-bdd5-41abe964f379,suspicions.one,available,3.99,,43,2,10,name.com,,
+1844b369-23a5-4ed4-9cdc-96b67fd935da,pay.one,resell,,,84,63,3,"GoDaddy.com, LLC",10/08/2016 21:09,10/08/2026 21:09
 1848e21c-a05a-4b34-b468-59e673c545dd,dogsleds.one,available,3.49,24.75,76,1,8,namesilo,,
 185e0f77-4b80-4e30-99f1-1d0c2b25f57a,dropsoff.one,available,3.49,24.75,52,1,9,namesilo,,
 18637178-bc0a-4401-9e0b-d8c7653f7b9c,plans.one,premium,625,,60,20,5,name.com,,
@@ -550,6 +551,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36cbdd1b-5039-4844-9921-fe2ae5d97393,porkrib.one,available,3.99,,55,0,8,name.com,,
 36f2a300-8df5-4615-bf95-da3ba68082be,requires.one,available,3.99,,58,4,8,name.com,,
 36f6194d-f723-4f50-810e-5f4a93207cc4,startover.one,available,3.99,,78,6,10,name.com,,
+37389bb4-b9bc-437f-8498-1edcc9cbc642,mantra.one,resell,,,80,27,6,Dynadot Inc,28/11/2019 15:37,28/11/2027 15:37
 373f72cc-6d7d-4abf-a34e-5efb597df14f,messed.one,available,3.99,,46,2,6,name.com,,
 374f8e1c-b184-43b3-8f99-50d0c75a9d98,goquietly.one,available,3.99,,66,1,10,name.com,,
 375516c7-f22a-43f5-befb-5d565a2926b3,Ifeelyou.one,available,30.98,,58,4,10,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 66b3b3dd-1ede-4278-972b-018de56c8cb4,blooddrives.one,available,3.49,24.75,62,1,12,namesilo,,
 66c5315b-6bd0-461d-9886-ac8aba7a7926,newer.one,available,3.99,,60,8,5,name.com,,
 66ecd885-3430-44ff-86f9-b14b8fa9bb0e,provinces.one,available,3.99,,54,2,9,name.com,,
-671d1c64-b5e9-422d-b73c-5b7a33891293,termed.one,available,3.49,24.75,48,4,6,namesilo,,
-6729e6cc-0986-4073-b2eb-3994e8c673c0,manycore.one,available,3.99,,68,3,8,name.com,,
