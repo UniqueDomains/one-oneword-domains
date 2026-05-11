@@ -248,7 +248,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 18cb6c0b-a745-4ca1-99d9-0b91e5b47caf,alcoholaddiction.one,available,3.99,,50,3,17,name.com,,
 191c3bc6-08c6-4ba3-8495-63ecf12ff035,officers.one,available,3.99,,50,5,8,name.com,,
 19241caa-06dd-40bc-b737-9f4132506f4a,textmessages.one,available,3.99,,52,3,13,name.com,,
-193ec0de-4129-443c-aa84-9c50cef6cf39,pre.one,resell,,,64,32,3,Dynadot Inc,30/10/2018 20:40,30/10/2026 20:40
+193ec0de-4129-443c-aa84-9c50cef6cf39,pre.one,resell,,,64,31,3,Dynadot Inc,30/10/2018 20:40,30/10/2026 20:40
 194139e9-32eb-4092-99d0-fd90a68fd5bd,operators.one,available,3.99,,52,13,9,name.com,,
 194e4f87-3b2f-4d1f-b215-4b58ff5ccaa8,aboutfaced.one,available,3.99,,48,1,11,name.com,,
 19574a44-03b6-40af-a0c9-95ca31ca64ed,officials.one,available,3.99,,49,8,9,name.com,,
@@ -590,6 +590,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3af6b321-1df2-49d7-917c-87db74fe01f0,CountyofMitchell.one,available,3.49,24.75,42,0,18,namesilo,,
 3b03337a-3ab0-4184-a2e1-c5e1ba23359c,mosquitoes.one,available,3.99,,42,4,10,name.com,,
 3b62fd8c-f904-411c-8ec4-a2176c0b3522,givelife.one,available,3.99,,58,5,9,name.com,,
+3b6db2fa-06e7-4c29-a8b9-b645e66b1b3b,trillionaire.one,premium,,,84,12,12,,,
 3b7efc35-a1ee-45b0-a4dd-3813fac45386,cometorest.one,available,3.99,,70,1,12,name.com,,
 3bb01fc5-7245-4149-b9c3-74c4125196ef,LordofChristmas.one,available,30.98,,54,1,17,namecheap,,
 3bc14d71-97bf-49d0-97a7-555be503ab4a,haveover.one,available,3.99,,74,1,9,name.com,,
@@ -950,6 +951,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 61d36c05-ce90-40ad-adb9-50d8878adc0b,requirements.one,available,3.99,,56,9,12,name.com,,
 6223104e-0dc6-4e1c-b77b-2a5122d09732,hitormiss.one,available,3.99,,66,3,11,name.com,,
 62497544-1916-4b33-bab1-ef7db546d3b2,states.one,premium,625,,70,16,6,name.com,,
+62561bc1-af4f-44db-850c-ad226562c8c5,discjockey.one,premium,,,82,8,11,,,
 625ea544-2d90-496f-b076-88887d23c241,dogwoods.one,available,3.49,24.75,76,2,8,namesilo,,
 62769696-57a7-4ce2-b216-41c796e7d616,inwriting.one,available,3.99,,72,3,10,name.com,,
 62aefcc5-3d18-40e8-8a08-2dc6915d43b3,barup.one,available,3.99,,82,2,6,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 664af337-bde4-446a-aa38-e07036f01a6f,lookouts.one,available,3.99,,52,3,8,name.com,,
 66848349-fb33-42f0-821b-981f7c11a2b7,lordofthemanor.one,available,3.99,,68,1,17,name.com,,
 66b3b3dd-1ede-4278-972b-018de56c8cb4,blooddrives.one,available,3.49,24.75,62,1,12,namesilo,,
-66c5315b-6bd0-461d-9886-ac8aba7a7926,newer.one,available,3.99,,60,8,5,name.com,,
-66ecd885-3430-44ff-86f9-b14b8fa9bb0e,provinces.one,available,3.99,,54,2,9,name.com,,
