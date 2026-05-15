@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .one one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **8,906 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,906 domains · **Median ask:** $152.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,906 domains · **Median ask:** $152.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/one`  
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | posts.one        | available | $3.49     | $24.75        | 54             | 16     | 5      | namesilo         |
 | coins.one        | resell    | —         | —             | 56             | 41     | 5      | IONOS SE         |
 | Books.one        | premium   | $700      | $700          | 52             | 49     | 5      | namecheap        |
-| yougotthis.one   | available | $3.99     | —             | 58             | 15     | 12     | name.com         |
+| getup.one        | available | $3.99     | —             | 82             | 14     | 6      | name.com         |
 | pre.one          | resell    | —         | —             | 64             | 31     | 3      | Dynadot Inc      |
 | Tools.one        | premium   | $700      | $700          | 56             | 40     | 5      | namecheap        |
-| getup.one        | available | $3.99     | —             | 82             | 14     | 6      | name.com         |
+| Phillip.one      | available | $30.98    | —             | 70             | 14     | 7      | namecheap        |
 | inspiration.one  | resell    | —         | —             | 88             | 30     | 11     | IONOS SE         |
 | Cats.one         | premium   | $700      | $700          | 59             | 33     | 4      | namecheap        |
-| Phillip.one      | available | $30.98    | —             | 70             | 14     | 7      | namecheap        |
+| alternatives.one | available | $3.49     | $24.75        | 58             | 13     | 12     | namesilo         |
 | mantra.one       | resell    | —         | —             | 80             | 27     | 6      | Dynadot Inc      |
 | solutions.one    | premium   | $625      | —             | 56             | 31     | 9      | name.com         |
-| alternatives.one | available | $3.49     | $24.75        | 58             | 13     | 12     | namesilo         |
+| makeme.one       | available | $3.99     | —             | 56             | 13     | 7      | name.com         |
 | gamers.one       | resell    | —         | —             | 62             | 24     | 6      | Dynadot Inc      |
 | schools.one      | premium   | $625      | —             | 72             | 24     | 7      | name.com         |
-| makeme.one       | available | $3.99     | —             | 56             | 13     | 7      | name.com         |
+| operators.one    | available | $3.99     | —             | 52             | 13     | 9      | name.com         |
 | toys.one         | resell    | —         | —             | 60             | 24     | 4      | Porkbun          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

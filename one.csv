@@ -536,6 +536,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3588280b-0f64-4d3a-8ca2-6c050a83dc3b,turnedup.one,available,3.49,24.75,56,2,9,namesilo,,
 35a18d1c-e7fe-472f-9fa7-10a97a0cb502,synchronizes.one,available,3.99,,62,1,12,name.com,,
 35b35de8-79ee-4a94-9e30-b423501da753,charts.one,resell,,,64,18,6,"GoDaddy.com, LLC",21/08/2019 20:48,21/08/2026 20:48
+35c8692f-77d2-4d58-bd26-5fcd574affd7,GoodFriday.one,available,3.49,24.75,72,5,11,namesilo,,
 35cfdd0d-1c4b-407e-aa54-cfe1fbd6abe6,likecrazy.one,available,3.99,,72,1,10,name.com,,
 35d82055-2947-4ae0-8da5-f1b1c8b8296a,comeupagainst.one,available,3.49,24.75,38,1,15,namesilo,,
 35ddd13c-df52-4a50-bdcc-a9cc55292fab,Yours.one,premium,,,68,18,5,,,
@@ -718,7 +719,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 482e0578-3418-42ec-9f9b-b0bb3a37b779,showedup.one,available,3.49,24.75,59,1,9,namesilo,,
 4832b80e-003d-4839-b536-8e2d63f71e8d,twits.one,available,3.49,24.75,46,3,5,namesilo,,
 4868cb16-e49d-4741-8ac8-9d3bf49d8442,paintpot.one,available,3.99,,72,2,9,name.com,,
-48742c5d-183a-4f91-aa7f-0fe58d45b2ee,yougotthis.one,available,3.99,,58,15,12,name.com,,
+48742c5d-183a-4f91-aa7f-0fe58d45b2ee,yougotthis.one,available,3.99,,58,9,12,name.com,,
 4881a065-dbe8-47c6-b767-4d9648b7406e,aunts.one,available,3.99,,54,2,5,name.com,,
 489fe579-f41a-4305-9429-a462fe4ff9e6,foes.one,available,3.99,,46,6,4,name.com,,
 48a3625c-e512-4fe9-be25-0067bb9eb89f,inlaws.one,available,3.99,,56,2,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 66394e61-588a-448b-bf4b-339999bf86c0,counts.one,available,3.99,,76,8,6,name.com,,
 664af337-bde4-446a-aa38-e07036f01a6f,lookouts.one,available,3.99,,52,3,8,name.com,,
 66848349-fb33-42f0-821b-981f7c11a2b7,lordofthemanor.one,available,3.99,,68,1,17,name.com,,
-66b3b3dd-1ede-4278-972b-018de56c8cb4,blooddrives.one,available,3.49,24.75,62,1,12,namesilo,,
