@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| highend.one      | available | $3.99     | —             | 72             | 17     | 8      | name.com             |
+| highend.one      | available | $3.99     | —             | 72             | 19     | 8      | name.com             |
 | pay.one          | resell    | —         | —             | 84             | 63     | 3      | GoDaddy.com, LLC     |
 | online.one       | premium   | $6,250    | —             | 70             | 62     | 7      | name.com             |
 | posts.one        | available | $3.49     | $24.75        | 54             | 16     | 5      | namesilo             |
@@ -74,10 +74,10 @@ print(df.head())
 | pre.one          | resell    | —         | —             | 64             | 31     | 3      | Dynadot Inc          |
 | Tools.one        | premium   | $700      | $700          | 56             | 40     | 5      | namecheap            |
 | Phillip.one      | available | $30.98    | —             | 70             | 14     | 7      | namecheap            |
-| inspiration.one  | resell    | —         | —             | 88             | 30     | 11     | IONOS SE             |
+| popup.one        | resell    | —         | —             | 84             | 28     | 6      | UM Domains Pte. Ltd. |
 | Cats.one         | premium   | $700      | $700          | 59             | 33     | 4      | namecheap            |
 | alternatives.one | available | $3.49     | $24.75        | 58             | 13     | 12     | namesilo             |
-| popup.one        | resell    | —         | —             | 84             | 28     | 6      | UM Domains Pte. Ltd. |
+| inspiration.one  | resell    | —         | —             | 88             | 27     | 11     | IONOS SE             |
 | solutions.one    | premium   | $625      | —             | 56             | 31     | 9      | name.com             |
 | operators.one    | available | $3.99     | —             | 52             | 13     | 9      | name.com             |
 | mantra.one       | resell    | —         | —             | 80             | 27     | 6      | Dynadot Inc          |
