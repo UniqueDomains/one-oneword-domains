@@ -1,10 +1,10 @@
-# Available .ONE One-Word Domains (8,911)
+# Available .ONE One-Word Domains (8,912)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C911%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C912%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .one one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,911 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,912 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,911 domains · **Median ask:** $152.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,912 domains · **Median ask:** $250.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/one`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/one`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ONE one-word domain c
 
 ### Files
 
-- `one.csv` — public CSV extract (1,000 rows)
-- `one.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `one.csv`, public CSV extract (1,000 rows)
+- `one.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| highend.one      | available | $3.99     | —             | 72             | 19     | 8      | name.com             |
-| pay.one          | resell    | —         | —             | 84             | 63     | 3      | GoDaddy.com, LLC     |
-| online.one       | premium   | $6,250    | —             | 70             | 62     | 7      | name.com             |
-| posts.one        | available | $3.49     | $24.75        | 54             | 16     | 5      | namesilo             |
-| coins.one        | resell    | —         | —             | 56             | 41     | 5      | IONOS SE             |
-| Books.one        | premium   | $700      | $700          | 52             | 49     | 5      | namecheap            |
-| getup.one        | available | $3.99     | —             | 82             | 15     | 6      | name.com             |
-| pre.one          | resell    | —         | —             | 64             | 31     | 3      | Dynadot Inc          |
-| Tools.one        | premium   | $700      | $700          | 56             | 40     | 5      | namecheap            |
-| Phillip.one      | available | $30.98    | —             | 70             | 14     | 7      | namecheap            |
-| popup.one        | resell    | —         | —             | 84             | 28     | 6      | UM Domains Pte. Ltd. |
-| Cats.one         | premium   | $700      | $700          | 59             | 33     | 4      | namecheap            |
-| alternatives.one | available | $3.49     | $24.75        | 58             | 13     | 12     | namesilo             |
-| inspiration.one  | resell    | —         | —             | 88             | 27     | 11     | IONOS SE             |
-| solutions.one    | premium   | $625      | —             | 56             | 31     | 9      | name.com             |
-| operators.one    | available | $3.99     | —             | 52             | 13     | 9      | name.com             |
-| mantra.one       | resell    | —         | —             | 80             | 27     | 6      | Dynadot Inc          |
-| has.one          | premium   | $625      | —             | 60             | 26     | 3      | name.com             |
-| niggers.one      | available | $3.99     | —             | 37             | 13     | 7      | name.com             |
-| gamers.one       | resell    | —         | —             | 62             | 24     | 6      | Dynadot Inc          |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| ages.one      | available | $3.49     | $24.75        | medium         | low    | 4      | namesilo                                |
+| streetart.one | resell    | $3.99     | —             | medium         | low    | 10     | Spaceship, Inc.                         |
+| cot.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
+| DSLR.one      | available | $3.49     | $24.75        | high           | low    | 4      | namesilo                                |
+| aaa.one       | resell    | —         | —             | high           | medium | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| gay.one       | premium   | $6,250    | —             | high           | medium | 3      | name.com                                |
+| ISBN.one      | available | $3.49     | $24.75        | high           | low    | 4      | namesilo                                |
+| aug.one       | resell    | —         | —             | high           | low    | 3      | Porkbun                                 |
+| saw.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
+| Jody.one      | available | $3.99     | —             | high           | low    | 4      | name.com                                |
+| feb.one       | resell    | —         | —             | high           | low    | 3      | Porkbun                                 |
+| sex.one       | premium   | $6,250    | —             | high           | medium | 3      | name.com                                |
+| mere.one      | available | $30.98    | —             | medium         | low    | 4      | namecheap                               |
+| led.one       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                         |
+| was.one       | premium   | $625      | —             | low            | low    | 3      | name.com                                |
+| sued.one      | available | $3.49     | $24.75        | low            | low    | 4      | namesilo                                |
+| yum.one       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                        |
+| wet.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
+| whom.one      | available | $3.49     | $24.75        | low            | low    | 4      | namesilo                                |
+| babe.one      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,911 live domains                         |
+| 1,000-row public sample | 8,912 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every domain is a one-word name on the .one extension. That creates a consistent buying set, but quality still varies widely by word strength. Names such as easy.one, modern.one, complete.one, and twenty.one read clearly and are easy to remember. Others may be longer, narrower, or more context-dependent, such as worshipful.one or expectant.one. When comparing these domains, focus first on whether the word is instantly understood, easy to say, and broad enough to support more than one use case. The median ask is $152.49, so price discipline matters less than choosing the strongest word with the cleanest commercial fit.
+This list gathers .one domain names built around short, memorable phrases rather than dictionary words alone. Names like becalled.one, letitbe.one, keepfit.one, and getready.one show how the extension favors compact, sayable combinations that read as a single brandable term. With a median ask near $251 across 8,912 names, the .one namespace stays accessible for early-stage founders and selective investors comparing pricing without committing to premium legacy extensions.
 
-- All names in this set use the .one extension
-- The selection contains 8,896 one-word domains
-- Median ask across this set is $152.49
-- Prioritize clear words with broad commercial use
+- 8,912 .one domain names available across this selection
+- Median asking price near $251 per domain
+- Short, phrase-based names read as single brandable words
+- Updated daily to reflect current .one domain pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
