@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .one one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,298 domains · **Median ask:** $86.03 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/one`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| achy.one      | available | $7.99     | $24.75        | low            | low    | 4      | namesilo                                |
-| streetart.one | resell    | $3.99     | —             | medium         | low    | 10     | Spaceship, Inc.                         |
-| cot.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
+| natural.one   | premium   | $640      | $640          | high           | low    | 7      | namesilo                                |
+| animal.one    | premium   | $625      | $625          | high           | low    | 6      | name.com                                |
+| employ.one    | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                             |
+| breakfast.one | resell    | —         | —             | high           | low    | 9      | Porkbun                                 |
+| drink.one     | premium   | $6,500    | $6,500        | high           | low    | 5      | namecheap                               |
+| seafood.one   | premium   | $640      | $640          | high           | low    | 7      | namesilo                                |
+| cooking.one   | premium   | $640      | $640          | high           | low    | 7      | namesilo                                |
+| dough.one     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                             |
+| achy.one      | available | $7.99     | $24.75        | medium         | low    | 4      | namesilo                                |
+| aaa.one       | resell    | —         | —             | high           | medium | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| aid.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
 | ages.one      | available | $3.49     | $24.75        | medium         | low    | 4      | namesilo                                |
-| aaa.one       | resell    | —         | —             | medium         | medium | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| gay.one       | premium   | $6,250    | —             | high           | medium | 3      | name.com                                |
-| agog.one      | available | $9.48     | $30.98        | low            | low    | 4      | namecheap                               |
-| aug.one       | resell    | —         | —             | low            | low    | 3      | Porkbun                                 |
-| saw.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
-| arse.one      | available | $7.99     | $24.75        | low            | low    | 4      | namesilo                                |
-| feb.one       | resell    | —         | —             | high           | low    | 3      | Porkbun                                 |
-| sex.one       | premium   | $6,250    | —             | high           | medium | 3      | name.com                                |
-| auld.one      | available | $7.99     | $24.75        | low            | low    | 4      | namesilo                                |
-| led.one       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                         |
-| was.one       | premium   | $625      | —             | low            | low    | 3      | name.com                                |
-| awry.one      | available | $7.99     | $24.75        | low            | low    | 4      | namesilo                                |
-| yum.one       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                        |
-| wet.one       | premium   | $650      | $650          | medium         | low    | 3      | namecheap                               |
-| clxv.one      | available | $7.99     | $24.75        | low            | low    | 4      | namesilo                                |
-| babe.one      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                             |
+| ant.one       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                         |
+| ass.one       | premium   | $625      | $625          | high           | low    | 3      | name.com                                |
+| agog.one      | available | $9.48     | $30.98        | high           | low    | 4      | namecheap                               |
+| atp.one       | resell    | —         | —             | high           | low    | 3      | OVH sas                                 |
+| beg.one       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                |
+| amok.one      | available | $7.99     | $24.75        | high           | low    | 4      | namesilo                                |
+| aug.one       | resell    | —         | —             | high           | low    | 3      | Porkbun                                 |
+| boy.one       | premium   | $625      | —             | high           | low    | 3      | name.com                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
