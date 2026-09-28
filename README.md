@@ -1,10 +1,10 @@
-# Available .ONE One-Word Domains (16,251)
+# Available .ONE One-Word Domains (16,515)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C251%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C515%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .one one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,251 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,515 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,251 domains · **Median ask:** $154.62 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 16,515 domains · **Median ask:** $153.63 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/one`
@@ -71,19 +71,19 @@ print(df.head())
 | ein.one  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.  |
 | eat.one  | premium   | $640      | $640          | high           | low    | 3      | namesilo         |
 | anoa.one | available | $9.48     | $30.98        | medium         | low    | 4      | namecheap        |
-| fun.one  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| sal.one  | resell    | —         | —             | high           | low    | 3      | —                |
 | ill.one  | premium   | $640      | $640          | high           | low    | 3      | namesilo         |
 | ards.one | available | $7.99     | $24.75        | medium         | low    | 4      | namesilo         |
-| sal.one  | resell    | —         | —             | high           | low    | 3      | —                |
+| core.one | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | lp.one   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo         |
 | awny.one | available | $7.99     | $24.75        | medium         | low    | 4      | namesilo         |
-| core.one | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| cove.one | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 | nyc.one  | premium   | $6,250    | —             | high           | medium | 3      | name.com         |
 | bitt.one | available | $9.48     | $30.98        | medium         | low    | 4      | namecheap        |
-| cove.one | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| dude.one | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC    |
 | sex.one  | premium   | $6,250    | —             | high           | medium | 3      | name.com         |
 | cows.one | available | $9.48     | $30.98        | high           | low    | 4      | namecheap        |
-| dude.one | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC    |
+| erin.one | resell    | —         | —             | high           | low    | 4      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,251 live domains                        |
+| 1,000-row public sample | 16,515 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
